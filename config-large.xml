@@ -1,0 +1,64 @@
+<patterns>
+  <set id="1">
+    <pattern>*.aaa.com</pattern>
+    <pattern>***.aaa.com</pattern>
+    <pattern>ww*.aaa*</pattern>
+  </set>
+  <set id="2">
+      <pattern>n*/en/c*ng</pattern>
+      <pattern>n*n/c*g</pattern>
+  </set>
+  <set id="3">
+      <pattern>*.bb.cc/*</pattern>
+      <pattern>dup.com</pattern>
+  </set>
+  <set id="4">
+    <pattern>*.yahoo.com</pattern>
+    <pattern>***.google.com</pattern>
+  </set>
+  <set id="5">
+    <pattern>*oo*.com</pattern>
+  </set>
+  <set id="6">
+    <pattern>*porn*.com</pattern>
+    <pattern>***xxx*</pattern>
+  </set>
+  <set id="7">
+    <pattern>*?lang=en</pattern>
+    <pattern>www.*/naveen*</pattern>
+  </set>
+  <set id="8">
+    <pattern>*face*</pattern>
+    <pattern>*face*/login?*</pattern>
+  </set>
+  <set id="9">
+      <pattern>**/*99</pattern>
+      <pattern>*/*88</pattern>
+  </set>
+  <set id="10">
+      <pattern>*.uk</pattern>
+      <pattern>*in</pattern>
+      <pattern>*.us</pattern>
+  </set>
+  <set id="11">
+      <pattern>*.org</pattern>
+      <pattern>*it</pattern>
+      <pattern>*.net</pattern>
+  </set>
+  <set id="12">
+      <pattern>*-*.com</pattern>
+      <pattern>*.*.com</pattern>
+  </set>
+  <set id="13">
+      <pattern>*.ca</pattern>
+      <pattern>*.dk</pattern>
+      <pattern>*.jp</pattern>
+      <pattern>*.cz</pattern>
+  </set>
+  <set id="14">
+      <pattern>pat.*c</pattern>
+  </set>
+  <set id="15">
+      <pattern>*</pattern>
+  </set>
+</patterns>
